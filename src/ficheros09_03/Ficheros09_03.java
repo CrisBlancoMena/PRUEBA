@@ -18,6 +18,7 @@ public class Ficheros09_03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
+        System.out.println("es una prueba para ver si sale en github");
         Scanner e=new Scanner(System.in);
         // ATRIBUTOS
         File archivo=new File("/C:/Users/F541/Documents/CLASE/DAW1/(PRG)PROGRAMACION/UD9-FICHEROS/TEORIA/hola.txt");
